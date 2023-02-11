@@ -14,5 +14,12 @@
       ]
     }
   ],
-  "users": []
+  "users": [
+    {
+      "id": 2,
+      "username": "Bob",
+      "email": "abc@gmail.com",
+      "pass": "123"
+    }
+  ]
 }
